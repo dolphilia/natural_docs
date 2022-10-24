@@ -42,7 +42,7 @@ mono NaturalDocs.exe /My Project/ND Config
 
 Natural Docs はコマンドライン（ターミナル）アプリケーションなので、開発環境やビルドプロセスに統合することができます。つまり、グラフィカルインターフェースはありません。手動で実行する場合は、ターミナルウィンドウから実行する必要があります。
 
-## 新規プロジェクトの開始 {#startinganewproject}
+## 新規プロジェクトの開始 {#starting_a_new_project}
 
 コードで既に古いバージョンのNatural Docsを使用している場合は、「1.x プロジェクトのアップグレード」に進んでください。
 
