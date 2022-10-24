@@ -6,7 +6,7 @@
 * [セットアップ](gettingstarted/gettingsetup.md)
     * [ダウンロードとインストール](gettingstarted/gettingsetup.md#downloadandistall)
     * [新規プロジェクトの開始](gettingstarted/gettingsetup.md#startinganewproject)
-    * [1.xプロジェクトのアップグレード](gettingstarted/gettingsetup.md#upgradinga1xproject)
+    * [1.xプロジェクトのアップグレード](gettingstarted/gettingsetup.md#upgradingaxproject)
 * [コードの文書化](getting_started/documenting_you_code.md)
     * [基本](getting_started/documenting_you_code.md#the_basics)
     * [クラスとスコープ](getting_started/documenting_you_code.md#classes_and_scope)
