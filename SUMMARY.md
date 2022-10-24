@@ -3,10 +3,10 @@
 ### Natural Docsガイド
 
 * [はじめに](README.md)
-* [セットアップ](gettingstarted/gettingsetup.md)
-    * [ダウンロードとインストール](gettingstarted/gettingsetup.md#download_and_install)
-    * [新規プロジェクトの開始](gettingstarted/gettingsetup.md#starting_a_new_project)
-    * [1.xプロジェクトのアップグレード](gettingstarted/gettingsetup.md#upgrading_a_x_project)
+* [セットアップ](gettingstarted/getting_set_up.md)
+    * [ダウンロードとインストール](gettingstarted/getting_set_up.md#download_and_install)
+    * [新規プロジェクトの開始](gettingstarted/getting_set_up.md#starting_a_new_project)
+    * [1.xプロジェクトのアップグレード](gettingstarted/getting_set_up.md#upgrading_a_x_project)
 * [コードの文書化](gettingstarted/documenting_you_code.md)
     * [基本](gettingstarted/documenting_you_code.md#the_basics)
     * [クラスとスコープ](gettingstarted/documenting_you_code.md#classes_and_scope)
