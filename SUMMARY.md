@@ -1,6 +1,6 @@
 # Summary
 
-### Natural Docsガイド
+### [Natural Docsガイド](README.md)
 
 * [セットアップ](getting_started/getting_set_up.md)
     * [ダウンロードとインストール](getting_started/getting_set_up.md#download_and_istall)
