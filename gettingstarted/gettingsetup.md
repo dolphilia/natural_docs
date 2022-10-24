@@ -2,7 +2,7 @@
 
 [原文](https://www.naturaldocs.org/getting_started/getting_set_up/)
 
-## ダウンロードとインストール {#download_and_istall}
+## ダウンロードとインストール {#downloadandistall}
 
 最初に行う必要があるのはNatural Docsをダウンロードすることです。ここからダウンロードします。
 
