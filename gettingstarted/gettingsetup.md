@@ -2,7 +2,7 @@
 
 [原文](https://www.naturaldocs.org/getting_started/getting_set_up/)
 
-## ダウンロードとインストール {#downloadandistall}
+## ダウンロードとインストール {#download_and_install}
 
 最初に行う必要があるのはNatural Docsをダウンロードすることです。ここからダウンロードします。
 
@@ -42,7 +42,7 @@ mono NaturalDocs.exe /My Project/ND Config
 
 Natural Docs はコマンドライン（ターミナル）アプリケーションなので、開発環境やビルドプロセスに統合することができます。つまり、グラフィカルインターフェースはありません。手動で実行する場合は、ターミナルウィンドウから実行する必要があります。
 
-## 新規プロジェクトの開始 {#startinganewproject}
+## 新規プロジェクトの開始 {#starting_a_new_project}
 
 コードで既に古いバージョンのNatural Docsを使用している場合は、「1.x プロジェクトのアップグレード」に進んでください。
 
@@ -84,7 +84,7 @@ NaturalDocs.exe C:\My Project\ND Config
 
 もし、あなたが使っている言語が完全にサポートされていれば、すぐに使えるドキュメントを得ることができます。基本的なサポートしかない場合は、コードを文書化するまで出力に何も表示されないでしょう。
 
-## 1.xプロジェクトのアップグレード {#upgradingaxproject}
+## 1.xプロジェクトのアップグレード {#upgrading_a_1x_project}
 
 コードで既に Natural Docs 1.x を使用している場合、アップグレードは簡単です。まず、古いファイルが混ざらないようにドキュメントフォルダの中身を削除します。また、プロジェクト構成フォルダのDataフォルダを削除します。このフォルダには.ndファイルだけが含まれているはずで、プロジェクト構成フォルダ内の.txtファイルは削除しないでください。
 
