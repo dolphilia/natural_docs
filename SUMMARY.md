@@ -5,7 +5,7 @@
 * [はじめに](README.md)
 * [セットアップ](getting_started/getting_set_up.md)
     * [ダウンロードとインストール](getting_started/getting_set_up.md#download_and_istall)
-    * [新規プロジェクトの開始](getting_started/getting_set_up.md#starting-a-new-project)
+    * [新規プロジェクトの開始](getting_started/getting_set_up.md#startinganewproject)
     * [1.xプロジェクトのアップグレード](getting_started/getting_set_up.md#upgrading_a_1_x_project)
 * [コードの文書化](getting_started/documenting_you_code.md)
     * [基本](getting_started/documenting_you_code.md#the_basics)
